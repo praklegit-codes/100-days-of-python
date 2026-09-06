@@ -13,3 +13,12 @@ list=[1,2,3,4,[6,7,8,9],["apple"]]
 print(list)
 tuple=("Alice",25,"Female")
 print(tuple)
+X=110
+Y=20
+print(X+Y)
+print(X-Y)
+print(X*Y)
+print(X/Y)
+print(X%Y)
+print(X//Y)
+print(X**Y)
